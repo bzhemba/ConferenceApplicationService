@@ -29,7 +29,7 @@ public class EditApplicationCommandHandler: IRequestHandler<EditApplicationComma
         if (request.Description != null) application.ChangeDescription(request.Description);
         application.ChangeTitle(request.Title);
         application.ChangeActivity(request.Activity);
-        application.ChangePlan(request.Plan);
+        application.ChangePlan(request.Outline);
         await _applicationDbContext.SaveChangesAsync(cancellationToken);
         
         return Unit.Value;

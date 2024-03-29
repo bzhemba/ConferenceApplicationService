@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vC43lrEtJPQh8pPlF4qAFVp61zqVPj0CrrRxf3cIflS6rjCntoMWV9zHLsZ/XE4BAKg6w5W7VNsQmGvbpDj3lQ==",
+  "success": true,
+  "projectFilePath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/Applications.Mapping.csproj",
+  "expectedPackageFiles": [
+    "/Users/mariabazenova/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/Users/mariabazenova/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

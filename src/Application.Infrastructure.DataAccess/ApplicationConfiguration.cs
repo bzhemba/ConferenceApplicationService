@@ -11,6 +11,6 @@ public class ApplicationConfiguration : IEntityTypeConfiguration<Models.Applicat
         builder.HasIndex(application => application.Id).IsUnique();
         builder.Property(application => application.Title).HasMaxLength(100).IsRequired();
         builder.Property(application => application.Description).IsRequired(false).HasMaxLength(300);
-        builder.Property(application => application.Plan).IsRequired().HasMaxLength(1000);
+        builder.Property(application => application.Outline).IsRequired().HasMaxLength(1000);
     }
 }

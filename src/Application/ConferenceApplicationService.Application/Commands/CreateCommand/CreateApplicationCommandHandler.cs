@@ -12,7 +12,7 @@ public class CreateApplicationCommandHandler : IRequestHandler<CreateApplication
         CancellationToken cancellationToken)
     {
         var application = new global::Application.Models.Application(Guid.NewGuid(),
-            request.UserId, request.Activity, request.Title, request.Description, request.Plan);
+            request.UserId, request.Activity, request.Title, request.Description, request.Outline);
         
         await _applicationDbContext.Applications.AddAsync(application, cancellationToken);
         await _applicationDbContext.SaveChangesAsync(cancellationToken);

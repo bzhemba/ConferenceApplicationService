@@ -16,7 +16,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.Models", "src\A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.Contracts", "src\Application\Application.Contracts\Application.Contracts.csproj", "{7C4D2D83-50AF-4ED5-BB95-A92487B6F485}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.Mapping", "src\Application\Application.Mapping\Application.Mapping.csproj", "{92F36718-61B2-4713-8E9E-08A8DBCA6A5F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Applications.Mapping", "src\Application\Applications.Mapping\Applications.Mapping.csproj", "{92F36718-61B2-4713-8E9E-08A8DBCA6A5F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceApplicationService.Application", "src\Application\ConferenceApplicationService.Application\ConferenceApplicationService.Application.csproj", "{403B35AF-76FA-4FAC-B42B-E938B959D05A}"
 EndProject

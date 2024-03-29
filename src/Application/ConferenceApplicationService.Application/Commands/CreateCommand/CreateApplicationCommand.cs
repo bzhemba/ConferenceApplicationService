@@ -8,7 +8,7 @@ public class CreateApplicationCommand : IRequest<Guid>
     public Guid UserId;
     public Guid Id;
     public string Title;
-    public ActivityType Activity;
+    public Activity Activity;
     public string? Description;
-    public string Plan;
+    public string Outline;
 }

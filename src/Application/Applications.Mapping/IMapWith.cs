@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-namespace Application.Mapping;
+namespace Applications.Mapping;
 
 public interface IMapWith<T>
 {
