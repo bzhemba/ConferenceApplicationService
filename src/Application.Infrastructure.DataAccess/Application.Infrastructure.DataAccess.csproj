@@ -15,6 +15,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\..\ConferenceApplicationService\ConferenceApplicationService.csproj" />
+      <ProjectReference Include="..\Application\Application.Contracts\Application.Contracts.csproj" />
       <ProjectReference Include="..\Application\Application.Models\Application.Models.csproj" />
     </ItemGroup>
 

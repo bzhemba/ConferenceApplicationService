@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wWQzAX9qPG4Bzb8hfN1EdpQqjjFwAFdKuehuUDkBAGqVsnQHblBLBHFffbCOUk1UhXUybZIBH+H3C47OXHshGQ==",
+  "dgSpecHash": "6E0gtUmPgowYC890uUSTU1HAGc3TLSEZarCJXlINopBPRWY65VOMw8WC/6fQXrUkApyPVmFFA8jd93Xd1yvK3Q==",
   "success": true,
   "projectFilePath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application.Infrastructure.DataAccess/Application.Infrastructure.DataAccess.csproj",
   "expectedPackageFiles": [
