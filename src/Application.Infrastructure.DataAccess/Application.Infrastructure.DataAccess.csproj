@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="EntityFramework" Version="6.4.4" />
+      <PackageReference Include="Npgsql" Version="8.0.2" />
+      <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.0" />
+      <PackageReference Include="SourceKit.Analyzers.Collections" Version="1.0.24" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\ConferenceApplicationService\ConferenceApplicationService.csproj" />
+      <ProjectReference Include="..\Application\Application.Models\Application.Models.csproj" />
+    </ItemGroup>
+
+</Project>
