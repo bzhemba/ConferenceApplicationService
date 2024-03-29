@@ -5,7 +5,7 @@ namespace Application.Infrastructure.DataAccess;
 
 public class ApplicationDbContext : DbContext, IApplicationDbContext
 {
-    public DbSet<Models.Application> applications { get; }
+    public DbSet<Models.Application> Applications { get; }
 
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
 

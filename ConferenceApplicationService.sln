@@ -18,7 +18,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.Contracts", "sr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.Mapping", "src\Application\Application.Mapping\Application.Mapping.csproj", "{92F36718-61B2-4713-8E9E-08A8DBCA6A5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceAplicationService.Application", "src\Application\ConferenceAplicationService.Application\ConferenceAplicationService.Application.csproj", "{403B35AF-76FA-4FAC-B42B-E938B959D05A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceApplicationService.Application", "src\Application\ConferenceApplicationService.Application\ConferenceApplicationService.Application.csproj", "{403B35AF-76FA-4FAC-B42B-E938B959D05A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
