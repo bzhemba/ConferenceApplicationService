@@ -41,6 +41,14 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[11.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.0-rc.1.22426.10, )"
             }
           },
           "imports": [

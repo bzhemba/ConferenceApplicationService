@@ -2,7 +2,7 @@
 
 public class Application
 {
-    public Application(Guid id, Guid userId, Activity activity, string title, string? description, string outline)
+    public Application(Guid id, Guid userId, ActivityType activity, string title, string? description, string outline)
     {
         Id = id;
         UserId = userId;
@@ -16,7 +16,7 @@ public class Application
 
     public Guid Id { get; }
     public Guid UserId { get; }
-    public Activity Activity { get; private set; }
+    public ActivityType Activity { get; private set; }
     public string Title { get; private set; }
     public string? Description { get; private set; }
     public string Outline { get; private set; }
@@ -35,7 +35,7 @@ public class Application
         Outline = newPlan;
     }
 
-    public void ChangeActivity(Activity newActivity)
+    public void ChangeActivity(ActivityType newActivity)
     {
         Activity = newActivity;
     }

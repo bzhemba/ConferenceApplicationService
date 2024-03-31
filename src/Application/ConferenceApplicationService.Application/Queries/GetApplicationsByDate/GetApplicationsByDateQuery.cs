@@ -4,5 +4,10 @@ namespace ConferenceApplicationService.Application.Queries.GetApplicationsByDate
 
 public class GetApplicationsByDateQuery : IRequest<ApplicationsListVm>
 {
-    public DateTime Date;
+    public DateTime Date { get; }
+
+    public GetApplicationsByDateQuery(DateTime date)
+    {
+        Date = date;
+    }
 }

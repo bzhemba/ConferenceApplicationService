@@ -1,0 +1,12 @@
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/bin/Debug/net7.0/Application.Models.deps.json
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/bin/Debug/net7.0/Application.Models.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/bin/Debug/net7.0/Application.Models.pdb
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/obj/Debug/net7.0/Application.Models.csproj.AssemblyReference.cache
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/obj/Debug/net7.0/Application.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/obj/Debug/net7.0/Application.Models.AssemblyInfoInputs.cache
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/obj/Debug/net7.0/Application.Models.AssemblyInfo.cs
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/obj/Debug/net7.0/Application.Models.csproj.CoreCompileInputs.cache
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/obj/Debug/net7.0/Application.Models.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/obj/Debug/net7.0/refint/Application.Models.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/obj/Debug/net7.0/Application.Models.pdb
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/obj/Debug/net7.0/ref/Application.Models.dll

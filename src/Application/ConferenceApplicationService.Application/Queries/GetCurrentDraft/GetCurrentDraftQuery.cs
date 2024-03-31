@@ -7,5 +7,10 @@ namespace ConferenceApplicationService.Application.Queries.GetCurrentDraft;
 
 public class GetCurrentDraftQuery : IRequest<ApplicationInformationVm>
 {
-    public Guid UserId;
+    public Guid UserId { get; }
+
+    public GetCurrentDraftQuery(Guid userId)
+    {
+        UserId = userId;
+    }
 }

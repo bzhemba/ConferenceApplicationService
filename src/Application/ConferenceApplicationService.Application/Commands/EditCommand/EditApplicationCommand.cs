@@ -5,10 +5,18 @@ namespace ConferenceApplicationService.Application.Commands.EditCommand;
 
 public class EditApplicationCommand : IRequest
     {
-    public Guid UserId;
-    public Guid Id;
-    public string Title;
-    public Activity Activity;
-    public string? Description;
-    public string Outline;
-}
+    public Guid Id { get; }
+    public string Title { get; }
+    public ActivityType Activity { get; }
+    public string? Description { get; }
+    public string Outline { get; }
+
+    public EditApplicationCommand(Guid id, string title, ActivityType activity, string? description, string outline)
+    {
+        Id = id;
+        Title = title;
+        Activity = activity;
+        Description = description;
+        Outline = outline;
+    }
+    }

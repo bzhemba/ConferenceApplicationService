@@ -42,9 +42,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.0-rc.1.22426.10, )"
             }
           },
           "imports": [
@@ -100,6 +108,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.0-rc.1.22426.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -157,6 +175,14 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[11.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.0-rc.1.22426.10, )"
             }
           },
           "imports": [
@@ -230,6 +256,14 @@
             "MediatR": {
               "target": "Package",
               "version": "[11.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.0-rc.1.22426.10, )"
             }
           },
           "imports": [

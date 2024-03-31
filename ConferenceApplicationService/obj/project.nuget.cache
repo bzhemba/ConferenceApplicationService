@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ko17IETZGQjHmBGubojjqyFDAArJB4mhGv6y5yC46hjGadhzWL6wI9MsRpiHzHRps6c+uLFM5HQT3rVOFoXPmw==",
+  "dgSpecHash": "S2rMTN60IaGMWq1l2W6oYWzV7zeveB8/IYh6sHuLzyKmr6MKoPsBJIVQg+W5nRTqsrUUuROf238zxmC0sD9x9Q==",
   "success": true,
   "projectFilePath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/ConferenceApplicationService/ConferenceApplicationService.csproj",
   "expectedPackageFiles": [
     "/Users/mariabazenova/.nuget/packages/entityframework/6.4.4/entityframework.6.4.4.nupkg.sha512",
+    "/Users/mariabazenova/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/mariabazenova/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/mariabazenova/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/Users/mariabazenova/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/mariabazenova/.nuget/packages/microsoft.entityframeworkcore/7.0.0/microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "/Users/mariabazenova/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0/microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",

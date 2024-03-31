@@ -5,5 +5,10 @@ namespace ConferenceApplicationService.Application.Queries.GetUnsubmittedApplica
 
 public class GetUnsubmittedApplicationByDateQuery : IRequest<ApplicationsListVm>
 {
-    public DateTime Date;
+    public DateTime Date { get; }
+
+    public GetUnsubmittedApplicationByDateQuery(DateTime date)
+    {
+        Date = date;
+    }
 }

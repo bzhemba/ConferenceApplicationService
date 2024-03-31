@@ -8,15 +8,17 @@
 
     <ItemGroup>
       <PackageReference Include="EntityFramework" Version="6.4.4" />
+      <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+      <PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.0-rc.1.22426.10" />
       <PackageReference Include="Npgsql" Version="8.0.2" />
       <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.0" />
       <PackageReference Include="SourceKit.Analyzers.Collections" Version="1.0.24" />
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\ConferenceApplicationService\ConferenceApplicationService.csproj" />
       <ProjectReference Include="..\Application\Application.Contracts\Application.Contracts.csproj" />
       <ProjectReference Include="..\Application\Application.Models\Application.Models.csproj" />
     </ItemGroup>
+
 
 </Project>

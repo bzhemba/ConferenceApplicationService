@@ -14,7 +14,7 @@ public class DeleteApplicationCommandHandler: IRequestHandler<DeleteApplicationC
     {
         var application = await _applicationDbContext.Applications.FirstOrDefaultAsync(application =>
             application.Id == request.Id, cancellationToken);
-        if (application == null || application.UserId != request.UserId)
+        if (application == null)
         {
             throw new NotFoundException(nameof(Application), request.Id);
         }

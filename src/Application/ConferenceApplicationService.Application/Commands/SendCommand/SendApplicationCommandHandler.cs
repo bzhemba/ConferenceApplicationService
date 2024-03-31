@@ -15,14 +15,14 @@ public class SendApplicationCommandHandler : IRequestHandler<DeleteApplicationCo
     {
         var application = await _applicationDbContext.Applications.FirstOrDefaultAsync(application =>
             application.Id == request.Id, cancellationToken);
-        if (application == null || application.UserId != request.UserId)
+        if (application == null)
         {
             throw new NotFoundException(nameof(Application), request.Id);
         }
 
         if (application.Status.WasSent)
         {
-            throw new EnableToEditOrDeleteException("You can't delete submitted application");
+            throw new EnableToEditOrDeleteException("This application has already been sent");
         }
 
         application.ChangeStatus();

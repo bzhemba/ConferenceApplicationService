@@ -1,0 +1,12 @@
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/bin/Debug/net7.0/Applications.Mapping.deps.json
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/bin/Debug/net7.0/Applications.Mapping.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/bin/Debug/net7.0/Applications.Mapping.pdb
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/obj/Debug/net7.0/Applications.Mapping.csproj.AssemblyReference.cache
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/obj/Debug/net7.0/Applications.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/obj/Debug/net7.0/Applications.Mapping.AssemblyInfoInputs.cache
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/obj/Debug/net7.0/Applications.Mapping.AssemblyInfo.cs
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/obj/Debug/net7.0/Applications.Mapping.csproj.CoreCompileInputs.cache
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/obj/Debug/net7.0/Applications.Mapping.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/obj/Debug/net7.0/refint/Applications.Mapping.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/obj/Debug/net7.0/Applications.Mapping.pdb
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/obj/Debug/net7.0/ref/Applications.Mapping.dll
