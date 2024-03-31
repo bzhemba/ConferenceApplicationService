@@ -5,6 +5,6 @@ Web API  для сбора заявок на выступление для IT к
 1. Подключиться к базе данных согласно предложенной строке подключения
 2. Запустить проект
 3. Для удобства иссполнения запросов и комманд предлагается воспользоваться GUI интерфейсом Swagger, добавив в адресную строку **/index.html**
-![]<img width="1501" alt="Screenshot 2024-04-01 at 1 48 46 AM" src="https://github.com/bzhemba/ConferenceApplicationService/assets/113040756/95453827-b7f3-43da-ac3a-a20600e6485b">
+<img width="1501" alt="Screenshot 2024-04-01 at 1 48 46 AM" src="https://github.com/bzhemba/ConferenceApplicationService/assets/113040756/95453827-b7f3-43da-ac3a-a20600e6485b">
 
 
