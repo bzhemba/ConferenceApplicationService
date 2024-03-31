@@ -17,3 +17,7 @@
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application.Infrastructure.DataAccess/obj/Debug/net7.0/Application.Infrastructure.DataAccess.pdb
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application.Infrastructure.DataAccess/obj/Debug/net7.0/Application.Infrastructure.DataAccess.genruntimeconfig.cache
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application.Infrastructure.DataAccess/obj/Debug/net7.0/ref/Application.Infrastructure.DataAccess.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application.Infrastructure.DataAccess/bin/Debug/net7.0/Applications.Mapping.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application.Infrastructure.DataAccess/bin/Debug/net7.0/ConferenceApplicationService.Application.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application.Infrastructure.DataAccess/bin/Debug/net7.0/ConferenceApplicationService.Application.pdb
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application.Infrastructure.DataAccess/bin/Debug/net7.0/Applications.Mapping.pdb

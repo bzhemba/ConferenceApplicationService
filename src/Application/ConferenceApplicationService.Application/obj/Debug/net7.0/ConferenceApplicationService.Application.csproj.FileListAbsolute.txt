@@ -17,3 +17,5 @@
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/ConferenceApplicationService.Application/obj/Debug/net7.0/refint/ConferenceApplicationService.Application.dll
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/ConferenceApplicationService.Application/obj/Debug/net7.0/ConferenceApplicationService.Application.pdb
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/ConferenceApplicationService.Application/obj/Debug/net7.0/ref/ConferenceApplicationService.Application.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/ConferenceApplicationService.Application/bin/Debug/net7.0/ConferenceApplicationService.Application.runtimeconfig.json
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/ConferenceApplicationService.Application/obj/Debug/net7.0/ConferenceApplicationService.Application.genruntimeconfig.cache

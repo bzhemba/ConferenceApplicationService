@@ -20,7 +20,7 @@ public class GetCurrentDraftQueryHandler
         CancellationToken cancellationToken)
     {
         var application = await _applicationDbContext.Applications.FirstOrDefaultAsync(application =>
-            (application.UserId == request.UserId) && (application.Status.WasSent == false), cancellationToken);
+            (application.UserId == request.UserId) && (application.WasSentStatus == false), cancellationToken);
         if (application == null)
         {
             throw new NotFoundException(nameof(Application), request.UserId);

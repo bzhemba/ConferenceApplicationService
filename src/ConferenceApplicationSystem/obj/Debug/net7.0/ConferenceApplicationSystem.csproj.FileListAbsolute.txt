@@ -15,8 +15,6 @@
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
-/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
-/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/bin/Debug/net7.0/Npgsql.dll
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
@@ -67,3 +65,14 @@
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/obj/Debug/net7.0/ConferenceApplicationSystem.pdb
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/obj/Debug/net7.0/ConferenceApplicationSystem.genruntimeconfig.cache
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/obj/Debug/net7.0/ref/ConferenceApplicationSystem.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/bin/Debug/net7.0/App.config
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/bin/Debug/net7.0/ConferenceApplicationSystem.dll.config
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/bin/Debug/net7.0/Humanizer.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/obj/Debug/net7.0/ConferenceApplicationSystem.MvcApplicationPartsAssemblyInfo.cs

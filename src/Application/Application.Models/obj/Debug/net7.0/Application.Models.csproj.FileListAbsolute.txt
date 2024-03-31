@@ -10,3 +10,5 @@
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/obj/Debug/net7.0/refint/Application.Models.dll
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/obj/Debug/net7.0/Application.Models.pdb
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/obj/Debug/net7.0/ref/Application.Models.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/bin/Debug/net7.0/Application.Models.runtimeconfig.json
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/obj/Debug/net7.0/Application.Models.genruntimeconfig.cache

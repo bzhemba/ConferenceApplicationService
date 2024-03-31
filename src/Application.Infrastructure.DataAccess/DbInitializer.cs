@@ -1,11 +1,10 @@
-using System.Net.Mime;
-using Application.Infrastructure;
 namespace Application.Infrastructure.DataAccess;
 
 public class DbInitializer
 {
-    public static void Initialize(ApplicationDbContext context)
+    public static void Initialize(ApplicationDbContext context, ActivityDbContext activityDbContext)
     {
         context.Database.EnsureCreated();
+        activityDbContext.Database.EnsureCreated();
     }
 }

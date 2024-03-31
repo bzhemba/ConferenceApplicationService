@@ -10,3 +10,5 @@
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/obj/Debug/net7.0/refint/Applications.Mapping.dll
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/obj/Debug/net7.0/Applications.Mapping.pdb
 /Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/obj/Debug/net7.0/ref/Applications.Mapping.dll
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/bin/Debug/net7.0/Applications.Mapping.runtimeconfig.json
+/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/obj/Debug/net7.0/Applications.Mapping.genruntimeconfig.cache

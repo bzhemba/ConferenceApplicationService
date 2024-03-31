@@ -23,7 +23,7 @@ public class GetUnsubmittedApplicationByDateQueryHandler
         CancellationToken cancellationToken)
     {
         var applications = await _applicationDbContext.Applications.Where(application =>
-                (application.Date > request.Date) && (application.Status.WasSent == false))
+                (application.Date > request.Date) && (application.WasSentStatus == false))
             .ProjectTo<ApplicationInformationVm>(_mapper.ConfigurationProvider)
             .ToListAsync(cancellationToken);
 

@@ -1,12 +1,10 @@
 using Application.Infrastructure.DataAccess;
-
-namespace ConferenceApplicationSystem;
+using ConferenceApplicationSystem;
 
 public class Program
 {
     public static void Main(string[] args)
     {
-        CreateHostBuilder(args).Build().Run();
         var host = CreateHostBuilder(args).Build();
 
         using (var scope = host.Services.CreateScope())
@@ -14,15 +12,14 @@ public class Program
             var serviceProvider = scope.ServiceProvider;
             try
             {
-                var context = serviceProvider.GetRequiredService<ApplicationDbContext>();
-                DbInitializer.Initialize(context);
+                var applicationContext = serviceProvider.GetRequiredService<ApplicationDbContext>();
+                var activityContext = serviceProvider.GetRequiredService<ActivityDbContext>();
+                DbInitializer.Initialize(applicationContext, activityContext);
             }
             catch (Exception exception)
-            {
-
+            { 
             }
         }
-
         host.Run();
     }
 

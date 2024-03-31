@@ -21,7 +21,7 @@ public class EditApplicationCommandHandler: IRequestHandler<EditApplicationComma
             throw new NotFoundException(nameof(Application), request.Id);
         }
 
-        if (application.Status.WasSent)
+        if (application.WasSentStatus)
         {
             throw new EnableToEditOrDeleteException("You can't edit submitted application");
         }

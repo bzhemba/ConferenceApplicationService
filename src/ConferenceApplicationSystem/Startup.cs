@@ -8,9 +8,12 @@ using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
 using System.Reflection;
 using Application.Contracts;
+using Application.Infrastructure.DataAccess;
 using Application.Infrastructure.DataAccess.Extensions;
 using Applications.Mapping;
+using ConferenceApplicationService.Application;
 using ConferenceApplicationService.Application.Extensions;
+using MediatR;
 
 namespace ConferenceApplicationSystem;
 
@@ -28,11 +31,13 @@ public class Startup
         {
             config.AddProfile(new AssemblyMappingProfile(Assembly.GetExecutingAssembly()));
             config.AddProfile(new AssemblyMappingProfile(typeof(IApplicationDbContext).Assembly));
+            config.AddProfile(new AssemblyMappingProfile(typeof(IActivityDbContext).Assembly));
         });
 
         services.AddApplication();
         services.AddInfrastructureDataAccess(Configuration);
         services.AddControllers();
+        services.AddMediatR(typeof(ConferenceApplicationsServiceMediatREntryPoint).Assembly);
 
         services.AddCors(options =>
         {
@@ -43,6 +48,7 @@ public class Startup
                 policy.AllowAnyOrigin();
             });
         });
+        services.AddSwaggerGen();
     }
 
     // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -52,14 +58,14 @@ public class Startup
         {
             app.UseDeveloperExceptionPage();
         }
-
+        app.UseSwagger();
+        app.UseSwaggerUI();
         app.UseRouting();
         app.UseHttpsRedirection();
         app.UseCors("AllowAll");
 
         app.UseEndpoints(endpoints =>
         {
-            endpoints.MapGet("/", async context => { await context.Response.WriteAsync("Hello World!"); });
             endpoints.MapControllers();
         });
     }

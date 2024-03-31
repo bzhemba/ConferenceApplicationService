@@ -45,6 +45,7 @@ public class ApplicationController : BaseController
     {
         var query = new GetCurrentDraftQuery(userId);
         var vm = await Mediator.Send(query);
+        
         return Ok(vm);
     }
 

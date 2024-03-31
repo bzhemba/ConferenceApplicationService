@@ -20,7 +20,7 @@ public class SendApplicationCommandHandler : IRequestHandler<DeleteApplicationCo
             throw new NotFoundException(nameof(Application), request.Id);
         }
 
-        if (application.Status.WasSent)
+        if (application.WasSentStatus)
         {
             throw new EnableToEditOrDeleteException("This application has already been sent");
         }

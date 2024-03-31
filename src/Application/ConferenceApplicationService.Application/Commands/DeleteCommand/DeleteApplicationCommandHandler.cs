@@ -19,7 +19,7 @@ public class DeleteApplicationCommandHandler: IRequestHandler<DeleteApplicationC
             throw new NotFoundException(nameof(Application), request.Id);
         }
 
-        if (application.Status.WasSent)
+        if (application.WasSentStatus)
         {
             throw new EnableToEditOrDeleteException("You can't delete submitted application");
         }
