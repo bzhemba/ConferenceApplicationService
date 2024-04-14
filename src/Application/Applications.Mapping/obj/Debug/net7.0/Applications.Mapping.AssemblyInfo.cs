@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Applications.Mapping")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f915eb635eb0f5411aa3a342671aab69feed8413")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1006beb58e29ed6e31d4e1fa8be11e09039e54a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Applications.Mapping")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Applications.Mapping")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

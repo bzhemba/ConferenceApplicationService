@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2JOFvH5d4BBAptWc48POoYaH9tF2gsPOCg6xEJOlXhwr7GwcNCzX4TqeNNfUHmBmy/xkan3mZlvV/cU/OmAzFw==",
+  "dgSpecHash": "3DQ7P0wqr6FuZHJEtlfFOyC85sweoUq/Z6qtHV3kDnM1dlL9svxfHCa3kQD3pLYJd9dCDAgq09xD5j1SGKqQjQ==",
   "success": true,
-  "projectFilePath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/Application.Models.csproj",
+  "projectFilePath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Models/Application.Models.csproj",
   "expectedPackageFiles": [
     "/Users/mariabazenova/.nuget/packages/entityframework/6.4.4/entityframework.6.4.4.nupkg.sha512",
     "/Users/mariabazenova/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

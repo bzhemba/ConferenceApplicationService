@@ -18,7 +18,7 @@ public class ApplicationController : BaseController
 
     public ApplicationController(IMapper mapper) => _mapper = mapper;
 
-    [HttpGet("{date:datetime}")]
+    [HttpGet("{date:datetime}",  Name="GetByDate")]
     public async Task<ActionResult<ApplicationsListVm>> GetByDate(DateTime date)
     {
         var query = new GetApplicationsByDateQuery(date);

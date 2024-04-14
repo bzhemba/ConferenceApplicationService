@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8nYg5c1SpTJgwNeYZxgKLTw00qcMkBh7PPhQjzsnC9lcoicdXAbdbw+D7FeAAAXc6j3Oal/y1ndukQcFrwu2Kg==",
+  "dgSpecHash": "B2UZ0hCvup2NJoC0xEt/acgqaiW0d28WcRqVEnfGDoW9B82cUqJpQCzaj3kDm+NvZy/0hU3dYLRI+lE6oSlKag==",
   "success": true,
-  "projectFilePath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/ConferenceApplicationSystem/ConferenceApplicationSystem.csproj",
+  "projectFilePath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/ConferenceApplicationSystem/ConferenceApplicationSystem.csproj",
   "expectedPackageFiles": [
     "/Users/mariabazenova/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/mariabazenova/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

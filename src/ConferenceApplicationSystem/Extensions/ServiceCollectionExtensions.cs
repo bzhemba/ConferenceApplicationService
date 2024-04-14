@@ -1,8 +1,5 @@
 using Application.Contracts;
-using ConferenceApplicationSystem;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
 
 namespace Application.Infrastructure.DataAccess.Extensions;
 

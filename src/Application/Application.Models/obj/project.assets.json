@@ -3582,11 +3582,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/Application.Models.csproj",
+      "projectUniqueName": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Models/Application.Models.csproj",
       "projectName": "Application.Models",
-      "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/Application.Models.csproj",
+      "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Models/Application.Models.csproj",
       "packagesPath": "/Users/mariabazenova/.nuget/packages/",
-      "outputPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/obj/",
+      "outputPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Models/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mariabazenova/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application.Infrastructure.DataAccess/Application.Infrastructure.DataAccess.csproj": {}
+    "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application.Infrastructure.DataAccess/Application.Infrastructure.DataAccess.csproj": {}
   },
   "projects": {
-    "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application.Infrastructure.DataAccess/Application.Infrastructure.DataAccess.csproj": {
+    "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application.Infrastructure.DataAccess/Application.Infrastructure.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application.Infrastructure.DataAccess/Application.Infrastructure.DataAccess.csproj",
+        "projectUniqueName": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application.Infrastructure.DataAccess/Application.Infrastructure.DataAccess.csproj",
         "projectName": "Application.Infrastructure.DataAccess",
-        "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application.Infrastructure.DataAccess/Application.Infrastructure.DataAccess.csproj",
+        "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application.Infrastructure.DataAccess/Application.Infrastructure.DataAccess.csproj",
         "packagesPath": "/Users/mariabazenova/.nuget/packages/",
-        "outputPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application.Infrastructure.DataAccess/obj/",
+        "outputPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application.Infrastructure.DataAccess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mariabazenova/.nuget/NuGet/NuGet.Config"
@@ -26,14 +26,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Contracts/Application.Contracts.csproj": {
-                "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Contracts/Application.Contracts.csproj"
+              "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Contracts/Application.Contracts.csproj": {
+                "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Contracts/Application.Contracts.csproj"
               },
-              "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/Application.Models.csproj": {
-                "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/Application.Models.csproj"
+              "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Models/Application.Models.csproj": {
+                "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Models/Application.Models.csproj"
               },
-              "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/ConferenceApplicationService.Application/ConferenceApplicationService.Application.csproj": {
-                "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/ConferenceApplicationService.Application/ConferenceApplicationService.Application.csproj"
+              "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/ConferenceApplicationService.Application/ConferenceApplicationService.Application.csproj": {
+                "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/ConferenceApplicationService.Application/ConferenceApplicationService.Application.csproj"
               }
             }
           }
@@ -103,14 +103,14 @@
         }
       }
     },
-    "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Contracts/Application.Contracts.csproj": {
+    "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Contracts/Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Contracts/Application.Contracts.csproj",
+        "projectUniqueName": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Contracts/Application.Contracts.csproj",
         "projectName": "Application.Contracts",
-        "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Contracts/Application.Contracts.csproj",
+        "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Contracts/Application.Contracts.csproj",
         "packagesPath": "/Users/mariabazenova/.nuget/packages/",
-        "outputPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Contracts/obj/",
+        "outputPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mariabazenova/.nuget/NuGet/NuGet.Config"
@@ -125,8 +125,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/Application.Models.csproj": {
-                "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/Application.Models.csproj"
+              "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Models/Application.Models.csproj": {
+                "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Models/Application.Models.csproj"
               }
             }
           }
@@ -192,14 +192,14 @@
         }
       }
     },
-    "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/Application.Models.csproj": {
+    "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Models/Application.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/Application.Models.csproj",
+        "projectUniqueName": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Models/Application.Models.csproj",
         "projectName": "Application.Models",
-        "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/Application.Models.csproj",
+        "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Models/Application.Models.csproj",
         "packagesPath": "/Users/mariabazenova/.nuget/packages/",
-        "outputPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/obj/",
+        "outputPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mariabazenova/.nuget/NuGet/NuGet.Config"
@@ -273,14 +273,14 @@
         }
       }
     },
-    "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/Applications.Mapping.csproj": {
+    "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Applications.Mapping/Applications.Mapping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/Applications.Mapping.csproj",
+        "projectUniqueName": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Applications.Mapping/Applications.Mapping.csproj",
         "projectName": "Applications.Mapping",
-        "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/Applications.Mapping.csproj",
+        "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Applications.Mapping/Applications.Mapping.csproj",
         "packagesPath": "/Users/mariabazenova/.nuget/packages/",
-        "outputPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/obj/",
+        "outputPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Applications.Mapping/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mariabazenova/.nuget/NuGet/NuGet.Config"
@@ -358,14 +358,14 @@
         }
       }
     },
-    "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/ConferenceApplicationService.Application/ConferenceApplicationService.Application.csproj": {
+    "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/ConferenceApplicationService.Application/ConferenceApplicationService.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/ConferenceApplicationService.Application/ConferenceApplicationService.Application.csproj",
+        "projectUniqueName": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/ConferenceApplicationService.Application/ConferenceApplicationService.Application.csproj",
         "projectName": "ConferenceApplicationService.Application",
-        "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/ConferenceApplicationService.Application/ConferenceApplicationService.Application.csproj",
+        "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/ConferenceApplicationService.Application/ConferenceApplicationService.Application.csproj",
         "packagesPath": "/Users/mariabazenova/.nuget/packages/",
-        "outputPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/ConferenceApplicationService.Application/obj/",
+        "outputPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/ConferenceApplicationService.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mariabazenova/.nuget/NuGet/NuGet.Config"
@@ -380,14 +380,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Contracts/Application.Contracts.csproj": {
-                "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Contracts/Application.Contracts.csproj"
+              "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Contracts/Application.Contracts.csproj": {
+                "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Contracts/Application.Contracts.csproj"
               },
-              "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/Application.Models.csproj": {
-                "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Application.Models/Application.Models.csproj"
+              "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Models/Application.Models.csproj": {
+                "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Application.Models/Application.Models.csproj"
               },
-              "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/Applications.Mapping.csproj": {
-                "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/Applications.Mapping.csproj"
+              "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Applications.Mapping/Applications.Mapping.csproj": {
+                "projectPath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Applications.Mapping/Applications.Mapping.csproj"
               }
             }
           }

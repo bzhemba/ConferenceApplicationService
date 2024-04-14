@@ -1,1 +1,1 @@
-GET http://localhost:5278
+GET http://localhost:5278/api/Application/GetById/9c53ea53-a88d-4367-ad8a-281738690412

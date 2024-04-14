@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2QgooKc5RzxFa+PiSVoPz1noaibvYDpNtQOMDIzcPaecd2vW+yQ8746rwITQZ3YHmlD14r+RdiAIfeU4zNUC1Q==",
+  "dgSpecHash": "CA7hzNXyGiL1Z0Grm6ulTX3qIJenwMPkNFjVppp+3bkLan8bGrF9J5VvktiN2Muu7eCPY4ZtVncChzRLhGVPjQ==",
   "success": true,
-  "projectFilePath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application.Infrastructure.DataAccess/Application.Infrastructure.DataAccess.csproj",
+  "projectFilePath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application.Infrastructure.DataAccess/Application.Infrastructure.DataAccess.csproj",
   "expectedPackageFiles": [
     "/Users/mariabazenova/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/Users/mariabazenova/.nuget/packages/entityframework/6.4.4/entityframework.6.4.4.nupkg.sha512",

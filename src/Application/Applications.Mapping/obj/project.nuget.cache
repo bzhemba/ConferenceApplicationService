@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VbGYdji/fjE7HwJn8Be6LZlOs8RRSZ/nHdGa5N6RQFbKB8KZN9AGJsECwBI4/niC5c7m6/9F3uyQJPX8CSH6wA==",
+  "dgSpecHash": "nqPRjCY/0HRWyR5hoipWCkOwoainsgzzgSBF8veht/RzLRPbry9j/cUwDQMpVZRthj7jVdRYlxAj6bRZt5+fNw==",
   "success": true,
-  "projectFilePath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService/src/Application/Applications.Mapping/Applications.Mapping.csproj",
+  "projectFilePath": "/Users/mariabazenova/RiderProjects/ConferenceApplicationService8/src/Application/Applications.Mapping/Applications.Mapping.csproj",
   "expectedPackageFiles": [
     "/Users/mariabazenova/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/Users/mariabazenova/.nuget/packages/entityframework/6.4.4/entityframework.6.4.4.nupkg.sha512",
